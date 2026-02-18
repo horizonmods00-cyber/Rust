@@ -1,1 +1,7 @@
-
+camera_pointer:0x17C5B30
+camera_static_fields:0xB8
+camera_wrapper_class:0x60
+camera_parent_static_fields:0x10
+camera_matrix:0x30c
+camera_position:0x454
+item_held_entity:0x70
